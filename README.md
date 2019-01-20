@@ -1,5 +1,5 @@
 # WatchList-App
-A hybrid web app built with [Framework7](http://framework7.io/), [Vue.js](https://vuejs.org/) and (OMDb API)[http://www.omdbapi.com/]
+A hybrid web app built with [Framework7](http://framework7.io/), [Vue.js](https://vuejs.org/) and [OMDb API](http://www.omdbapi.com/)
 
 ## Usage
 
